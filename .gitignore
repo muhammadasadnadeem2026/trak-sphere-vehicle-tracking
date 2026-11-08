@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+uploads/
+*.log
+# IAR build output
+firmware/**/Debug/
+firmware/**/Release/
+firmware/**/settings/
+*.dep
+.DS_Store
+Thumbs.db
